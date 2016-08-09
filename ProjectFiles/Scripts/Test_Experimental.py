@@ -1,5 +1,4 @@
 # Experimental_addin.py
-# Barbara Gates
 # 5/4/16
 
 import arcpy
